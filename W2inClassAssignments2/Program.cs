@@ -1,5 +1,6 @@
 ﻿using System; 
 namespace W2InClassAssignments2
+
 {
     // Exercise 1 & 2
     class Book
